@@ -3,7 +3,4 @@ one
 
 hey rakib how are you
 22
-444
-=======
-akash how are you
->>>>>>> master
+
