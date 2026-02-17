@@ -1,6 +1,4 @@
 one
 <<<<<<< HEAD
 
-hey rakib how are you
-22
 
